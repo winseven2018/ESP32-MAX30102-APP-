@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Code/Android_Project/Flutter/MyApplication4/app/src/main/res/drawable/background_bs.xml" value="0.2415" />
+        <entry key="..\:/Code/Android_Project/Flutter/MyApplication4/app/src/main/res/drawable/border.xml" value="0.2415" />
+        <entry key="..\:/Code/Android_Project/Flutter/MyApplication4/app/src/main/res/drawable/color.xml" value="0.2375" />
+        <entry key="..\:/Code/Android_Project/Flutter/MyApplication4/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1845" />
+        <entry key="..\:/Code/Android_Project/Flutter/MyApplication4/app/src/main/res/drawable/shadow.xml" value="0.2415" />
+        <entry key="..\:/Code/Android_Project/Flutter/MyApplication4/app/src/main/res/layout/activity_main.xml" value="0.18645833333333334" />
+        <entry key="..\:/Code/Android_Project/Flutter/MyApplication4/app/src/main/res/layout/border.xml" value="0.2558876811594203" />
+        <entry key="..\:/Code/Android_Project/Flutter/MyApplication4/app/src/main/res/layout/load_layout.xml" value="0.25317028985507245" />
+        <entry key="..\:/Tools/Android_SDk/.gradle/caches/transforms-2/files-2.1/43bbf166bd1835a4d2dce64635c61546/RxFeature-2.6.2/res/layout/activity_code_tool.xml" value="0.20052083333333334" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
